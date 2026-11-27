@@ -20,17 +20,17 @@ class Sivaji:
         self.role = "Software Engineer (SWE) — Backend & AI/ML"
         self.education = "B.Tech CSE - Data Science, CGPA 8.45/10"
         self.location = "West Godavari, Andhra Pradesh, India 🇮🇳"
-        self.looking_for = "Full-time, Intern SWE opportunities"
+        self.looking_for = "Full-time, Intern opportunities"
 
     def say_hi(self):
-        print("Thanks for stopping by — visit my profile! 🧑‍💻")
+        print("Thank you for stopping by — visit my profile!")
 
 me = Sivaji()
 me.say_hi()
 ```
 
 - 🎓 Computer Science (Data Science) graduate from Swarnandhra College of Engineering & Technology
-- 🛠️ I like writing clean backend code and gluing it to cloud infra that doesn't fall over
+- 🧑‍💻 Dedicated to securing a Software Engineer position
 - 🚀 Currently enhancing my software development skills by learning new technologies
 - 📫 Reach me: **dsivaji9100@gmail.com**
 
